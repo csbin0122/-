@@ -1,0 +1,9 @@
+﻿Dataset,Total Rows,Pure Chemical Rows,Unique SMILES
+acute_oral,16721,11948,8788
+acute_inhalation,5505,3055,1530
+cancer,10351,9537,2868
+skin_sensitization,13945,10363,1377
+endocrine,16416,15928,1801
+eye_irritation,3028,1005,175
+dart,138326,134572,609
+acute_dermal,2692,2552,266
